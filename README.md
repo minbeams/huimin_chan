@@ -7,7 +7,7 @@
 ✉️: chanhuimin@live.com 
 &nbsp;&nbsp; 📲 +65-9795 7352
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://sites.google.com/view/minbeams/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website]([https://datasciencestunt.com/](https://sites.google.com/view/minbeams/))
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -18,7 +18,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am Huimin, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 
 <!-- Add link to the sections -->
